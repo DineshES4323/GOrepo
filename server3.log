@@ -1,0 +1,4 @@
+ERROR: Disk space low
+INFO: Disk cleanup started
+ERROR: Disk cleanup failed
+INFO: Disk cleanup completed
